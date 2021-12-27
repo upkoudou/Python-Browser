@@ -4,7 +4,7 @@ Welcome back to one of my Git repo; this time I share the code to build a basic 
 
  The project shouldn't take more than 10 min (max) to be understood and compiled.
 
- <ins> Requirements </ins>
+ <ins> Requirements: </ins>
 
  I advise you to install PyQT5 before running the code:
 
