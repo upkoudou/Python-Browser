@@ -4,12 +4,13 @@ Welcome back to one of my Git repo; this time I share the code to build a basic 
 
  The project shouldn't take more than 10 min (max) to be understood and compiled.
 
- Requirements:
+ <ins> Requirements </ins>
 
  I advise you to install PyQT5 before running the code:
 
- pip3 install PyQT5
- pip3 install pyqtwebengine
+```pip3 install PyQT5```
+
+ ```pip3 install pyqtwebengine```
 
  Run and let me know you like it!
 
