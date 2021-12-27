@@ -42,7 +42,7 @@ class TethysBrowser(QMainWindow):
         self.go_btn.clicked.connect(lambda: self.navigate(self.url_bar.toPlainText()))
         self.back_btn.clicked.connect(self.browser.back)
         self.fwd_btn.clicked.connect(self.browser.forward)
-        #self.home_btn.clicked.connect(lambda: self.home())
+        self.home_btn.clicked.connect(lambda: self.home())
         
         self.layout.addLayout(self.horizontal)
         self.layout.addWidget(self.browser)
