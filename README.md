@@ -1,4 +1,4 @@
-# tethys_browser
+# Python_browser
 
 Welcome back to one of my Git repo; this time I share the code to build a basic Python browser to get you familiar with PyQT5.
 
